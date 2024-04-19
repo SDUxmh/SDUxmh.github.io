@@ -17,3 +17,6 @@ Publish papers：
 
 2.[Based on YOLOv7-tiny Improved Model of Remote Sensing Image Detection](https://ieeexplore.ieee.org/document/10335430)
 
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](xmhlp1997@gmail.com) / [Github]([https://github.com/SDUxmh/SDUxmh](https://github.com/SDUxmh/SDUxmh)) / [Wechat](../images/wechat.png) / [CSDN](https://blog.csdn.net/qq_52062754?type=blog)
