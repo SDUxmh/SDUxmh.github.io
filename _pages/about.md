@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am MengHuai Xiao
 
-I am a master student from the School of Computer and Information Engineering of [Fuyang Normal University] (https://www.fynu.edu.cn). My research interests include computer vision and natural language processing.
+I am a master student from the School of Computer and Information Engineering of [Fuyang Normal University](https://www.fynu.edu.cn). 
 
-My supervisor is Professor Wang Ya.
+My research interests include computer vision and natural language processing.
+
+My supervisor is Professor Wang Ya. 
 
 You can find my Chinese Resume here: [Chinese Resume](../files/Chinese_resume.pdf).
 
