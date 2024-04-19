@@ -14,8 +14,11 @@ My supervisor is Professor Wang Ya.
 You can find my Chinese Resume here: [Chinese Resume](../files/Chinese_resume.pdf).
 
 [Email](xmhlp1997@gmail.com): xmhlp1997@gmail.com
+
 [Github](https://github.com/SDUxmh/SDUxmh): https://github.com/SDUxmh/SDUxmh
+
 [Wechat](../images/Wechat.png): XMH8023591 
+
 [CSDN](https://blog.csdn.net/qq_52062754?type=blog): https://blog.csdn.net/qq_52062754?type=blog
 
 Publish papers
