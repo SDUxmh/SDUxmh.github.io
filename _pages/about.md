@@ -22,4 +22,4 @@ Publish papers
 
 
 
-[Email](xmhlp1997@gmail.com) / [Github]([https://github.com/SDUxmh/SDUxmh](https://github.com/SDUxmh/SDUxmh)) / [Wechat](../images/wechat.png) / [CSDN](https://blog.csdn.net/qq_52062754?type=blog)
+[Email](xmhlp1997@gmail.com) / [Github](https://github.com/SDUxmh/SDUxmh)/ [Wechat](../images/Wechat.png) / [CSDN](https://blog.csdn.net/qq_52062754?type=blog)
