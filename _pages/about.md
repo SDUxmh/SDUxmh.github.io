@@ -14,7 +14,7 @@ My research interests include computer vision and natural language processing.
 
 My supervisor is Professor Wang Ya. 
 
-You can find my Chinese Resume here: [Chinese Resume](../files/Chinese_resume.pdf).
+You can find my Chinese Resume here: [Chinese Resume](../files/chinese_resume.pdf).
 
 [Email](xmhlp1997@gmail.com): xmhlp1997@gmail.com
 
