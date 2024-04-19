@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am MengHuai Xiao
+I am MengHuai Xiao.
 
 I am a master student from the School of Computer and Information Engineering of [Fuyang Normal University](https://www.fynu.edu.cn). 
 
