@@ -10,3 +10,8 @@ redirect_from:
 I am a master student from the School of Computer and Information Engineering of Fuyang Normal University (https://www.fynu.edu.cn). My research interests include computer vision and natural language processing.
 
 I am honored to get Ya fuyang normal university professor wWang (https://www.fynu.edu.cn/xxgc/info/1046/2123.htm). The guidance of... My supervisor is a PhD graduate from the School of Electrical and Information Engineering, Anhui University of Science and Technology
+
+Publish a paper：
+Salient Object Detection Based on Improved Pyramid Pooling Network（https://ieeexplore.ieee.org/document/10335231）
+Based on YOLOv7-tiny Improved Model of Remote Sensing Image Detection（https://ieeexplore.ieee.org/document/10335430）
+
