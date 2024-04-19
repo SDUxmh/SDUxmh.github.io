@@ -13,6 +13,11 @@ My supervisor is Professor Wang Ya.
 
 You can find my Chinese Resume here: [Chinese Resume](../files/Chinese_resume.pdf).
 
+[Email](xmhlp1997@gmail.com): xmhlp1997@gmail.com
+[Github](https://github.com/SDUxmh/SDUxmh): https://github.com/SDUxmh/SDUxmh
+[Wechat](../images/Wechat.png): XMH8023591 
+[CSDN](https://blog.csdn.net/qq_52062754?type=blog): https://blog.csdn.net/qq_52062754?type=blog
+
 Publish papers
 ===========
 1.[Salient Object Detection Based on Improved Pyramid Pooling Network](https://ieeexplore.ieee.org/document/10335231)
@@ -20,6 +25,3 @@ Publish papers
 2.[Based on YOLOv7-tiny Improved Model of Remote Sensing Image Detection](https://ieeexplore.ieee.org/document/10335430)
 
 
-
-
-[Email](xmhlp1997@gmail.com) / [Github](https://github.com/SDUxmh/SDUxmh)/ [Wechat](../images/Wechat.png) / [CSDN](https://blog.csdn.net/qq_52062754?type=blog)
