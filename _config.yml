@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiao.png"
+  avatar           : "xiao.jpg"
   name             : "MengHuai Xiao"
   pronouns         : # her"  
   bio              : "Strong determination to succeed．"
