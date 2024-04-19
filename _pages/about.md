@@ -12,7 +12,7 @@ My research interests include computer vision and natural language processing.
 
 My supervisor is Ya Wang. She is a professor in Fuyang Normal University.
 
-###### The following is my basic information：
+### The following is my basic information：
 
 Name: MengHuai Xiao
 
