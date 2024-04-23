@@ -36,8 +36,8 @@ Publish papers
 ===========
 link：
 
-1.[View the paper](../files/paper01.pdf). Salient Object Detection Based on Improved Pyramid Pooling Network.(https://ieeexplore.ieee.org/document/10335231). 
+1.[View the paper](../files/paper01.pdf). MengHuai Xiao, Wang Yue, Ya Wang*, Jun Huang. Salient Object Detection Based on Improved Pyramid Pooling Network.(https://ieeexplore.ieee.org/document/10335231). 
 
-2.[View the paper](../files/paper02.pdf). Based on YOLOv7-tiny Improved Model of Remote Sensing Image Detection.(https://ieeexplore.ieee.org/document/10335430).
+2.[View the paper](../files/paper02.pdf). Yue Wang, MengHuai Xiao, Ya Wang*, Jun Huang. Based on YOLOv7-tiny Improved Model of Remote Sensing Image Detection.(https://ieeexplore.ieee.org/document/10335430).
 
 
